@@ -2,7 +2,7 @@
 
 Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **MACHETE** is a motor assisted commutator that allows researchers to capture high-fidelity electro- and opto-physiological data during tethered freely-moving behavior experiments with mice. 
 
-![](https://github.com/jovantormesvaquerano/MACHETE/blob/187926fa77e20db94a83408c06d22841edb5e49e/MACHETE_Cover.png)
+![](https://github.com/jovantormesvaquerano/MACHETE/blob/669a083058fe5c029577b7b2204445acdb59a479/MACHETE_Cover.png)
 
 # Custom Arduino Printed Circuit Board Shield:
 Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, integrated within a pair of custom printed circuit boards (PCBs) which allow users to interface with both data aquisition computers and existing commercial optogenetic and electrophysiological devices. 
