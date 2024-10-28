@@ -9,9 +9,9 @@ Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, i
 
 # Commercially Available and Custom Made Parts 
 
-The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/1-CaPuLeT-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required to build MACHETE within your own laboratory. 
+The following [component list](https://github.com/jovantormesvaquerano/MACHETE/blob/bd38f78877306293dac34d38455146c2f5d1ffb2/1-MACHETE-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required to build MACHETE within your own laboratory. 
 
-This [document](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/4-CaPuLeT-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/5-CaPuLeT-Custom-Parts-Specifications.pdf). The following [spreadsheet](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/3-CaPuLeT-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
+This [document](https://github.com/jovantormesvaquerano/MACHETE/blob/bd38f78877306293dac34d38455146c2f5d1ffb2/3-MACHETE-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. The following [spreadsheet](https://github.com/jovantormesvaquerano/MACHETE/blob/bd38f78877306293dac34d38455146c2f5d1ffb2/2-MACHETE-Bill-of-Materials-and-Assembly-Spreadsheet.xlsx) outlines the total cost of the motor assisted commutator.  
 
 **Here is a list of the manufacturers we purchased materials from:** 
 - Digikey
@@ -28,7 +28,7 @@ This [document](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db
 
 # Step-by-Step Building Guide
 
-This following [guide](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/6-CaPuLeT-Step-by-Step-Guide.pdf) provides a step-by-step walkthrough for building and testing each component of our motor assisted commutator. This document includes diagrams and explanations for assembling each component. 
+This following [guide]() provides a step-by-step walkthrough for building and testing each component of our motor assisted commutator. This document includes diagrams and explanations for assembling each component. 
 
 # Software Installation Guide and Dependencies
 
