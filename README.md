@@ -7,6 +7,7 @@ Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodrí
 # Custom Arduino Printed Circuit Board Shield:
 Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, integrated within a pair of custom printed circuit boards (PCBs) which allow users to interface with both data aquisition computers and existing commercial optogenetic and electrophysiological devices. 
 
+![](https://github.com/jovantormesvaquerano/MACHETE/blob/9aff202ff052d74dd10126f3546e61ae72f81fe1/MACHETE_PCBs.png)
 
 # Commercially Available and Custom Made Parts 
 
