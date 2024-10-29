@@ -1,4 +1,4 @@
-# Motor Assisted Commutator for High-fidelity Electro-Optical Tethered Experiments (MACHETE) 
+# Motor Assisted Commutator for High-fidelity Electro-optical Tethered Experiments (MACHETE) 
 
 Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **MACHETE** is a motor assisted commutator that allows researchers to capture high-fidelity electro-optical data during tethered freely-moving behavior experiments with mice. 
 
