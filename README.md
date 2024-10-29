@@ -195,147 +195,147 @@ The following [component list](https://github.com/jovantormesvaquerano/MACHETE/b
 </tr>
 <tr>
 <td align="right">20</td>
-<td>Thorlabs</td>
-<td>Mini Optical Post</td>
-<td>MS3R</td>
-<td>1</td>
-<td>$9.09 </td>
-<td>$9.09 </td>
+<td>McMaster-Carr</td>
+<td>M2 x 4mm threaded insert</td>
+<td>94180A312</td>
+<td>1 (Pack of 100)</td>
+<td>$22.41</td>
+<td>$22.41</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td>Thorlabs</td>
-<td>Aluminum Breadboard 8&quot; x 10&quot; x 1/2&quot;, 1/4&quot;-20 Taps</td>
-<td>MB810</td>
+<td>McMaster-Carr</td>
+<td>Ball Bearing 6 mm shaft</td>
+<td>4668K122</td>
 <td>1</td>
-<td>$131.60 </td>
-<td>$131.60 </td>
+<td>$26.83</td>
+<td>$26.83</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td>Thorlabs</td>
-<td>Aluminum Breadboard 12&quot; x 18&quot; x 1/2&quot;, 1/4&quot;-20 Taps</td>
-<td>MB1218</td>
+<td>McMaster-Carr</td>
+<td>M3-0.5 x 6mm screw</td>
+<td>91290A111</td>
 <td>1</td>
-<td>$214.65 </td>
-<td>$214.65 </td>
+<td>$11.32</td>
+<td>$11.32</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td>Thorlabs</td>
-<td>Breadboard Lifting Handles, Reinforced Polymer </td>
-<td>BBH1</td>
-<td>2 (Pack of 2)</td>
-<td>$17.01 </td>
-<td>$17.01 </td>
+<td>McMaster-Carr</td>
+<td>M3-0.5 x 10mm screw</td>
+<td>91290A115</td>
+<td>1</td>
+<td>$12.92</td>
+<td>$12.92</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td>Thorlabs</td>
-<td>4-40 Stainless Steel Cap Screw, 3/8&quot; Long</td>
-<td>SH4S038</td>
-<td>1 (Pack of 50)</td>
-<td>$9.31 </td>
-<td>$9.31 </td>
+<td>McMaster-Carr</td>
+<td>M2-0.4 x 8mm screw</td>
+<td>91290A015</td>
+<td>1</td>
+<td>$18.76</td>
+<td>$18.76</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td>Thorlabs</td>
-<td>Spring-Loaded 3/16&quot; Hex-Locking Thumbscrew, 1/4&quot;-20 Thread</td>
-<td>TS25H</td>
-<td>2</td>
-<td>$2.87 </td>
-<td>$5.74 </td>
+<td>Taidacent</td>
+<td>Rotary Electrical Slip Ring</td>
+<td>734831002031</td>
+<td>1</td>
+<td>$75.98</td>
+<td>$75.98</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td>Thorlabs</td>
-<td>1/4&quot;-20 Stainless Steel Setscrew, 5/8&quot; Long (Adaptor)</td>
-<td>SS25S0625</td>
-<td>1 (Pack of 25)</td>
-<td>$6.97 </td>
-<td>$6.97 </td>
+<td>K&J Magnetics, Inc</td>
+<td>Magnet (5 mm x 1mm)</td>
+<td>D301</td>
+<td>1</td>
+<td>$1.10</td>
+<td>$1.10</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td>Thorlabs</td>
-<td>1/4&quot; Washer, M6 Compatible, Stainless Steel</td>
-<td>W25S050</td>
-<td>1 (Pack of 100)</td>
-<td>$10.20 </td>
-<td>$10.20 </td>
+<td>Maxx Model</td>
+<td>M1.6 x 4mm screw</td>
+<td>M1640HCS</td>
+<td>2</td>
+<td>$1.75</td>
+<td>$1.75</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td>Thorlabs</td>
-<td>1/4&quot;-20 Stainless Steel Nut</td>
-<td>N25S0440</td>
-<td>1 (Pack of 50)</td>
-<td>$6.43 </td>
-<td>$6.43 </td>
+<td>Custom Parts</td>
+<td>Top Case</td>
+<td>3-D Printing</td>
+<td>1</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td>Omron</td>
-<td>Rotary Encoder - 1024 P/R (Quadrature)</td>
-<td>E6B2-CWZ3E (E69-C06B)</td>
+<td>Custom Parts</td>
+<td>PCB attachment</td>
+<td>3-D Printing</td>
 <td>1</td>
-<td>$48.50 </td>
-<td>$48.50 </td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td>DB Unlimited</td>
-<td>Speaker 80hm 5 w top port 104db</td>
-<td>2104-SP500208-3-ND</td>
+<td>Custom Parts</td>
+<td>Static PCB</td>
+<td>PCB Manufacturing (JLC PCB)</td>
 <td>1</td>
-<td>$6.79 </td>
-<td>$6.79 </td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td>SullinsCorp</td>
-<td>2.54mm Pitch Single Row Pin Header Strip</td>
-<td>PREC040SAAN-RC</td>
-<td>3</td>
-<td>$1.53</td>
-<td>$1.53</td>
+<td>Custom Parts</td>
+<td>Dynamic PCB</td>
+<td>PCB Manufacturing (JLC PCB)</td>
+<td>1</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td>Ardest</td>
-<td>2N2222 NPN TO-92 Power Transistors</td>
-<td>2N2222</td>
-<td>6</td>
-<td>$1.44</td>
-<td>$1.44</td>
+<td>Custom Parts</td>
+<td>Small Gear</td>
+<td>3-D Printing</td>
+<td>1</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td>Boca Bearings</td>
-<td>5 mm Steel Ball Bearing</td>
-<td>SMR115-ZZC #5 LD</td>
-<td>2</td>
-<td>$10.58 </td>
-<td>$21.16 </td>
+<td>Custom Parts</td>
+<td>Shield</td>
+<td>3-D Printing</td>
+<td>1</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td>Xenocam</td>
-<td>9-22mm 1/3" F1.4 M12-mount lens with IR filter</td>
-<td>XC0922LENS</td>
+<td>Custom Parts</td>
+<td>Cable Holder</td>
+<td>3-D Printing</td>
 <td>1</td>
-<td>$19.99 </td>
-<td>$19.99 </td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td>Monoprice</td>
-<td>USB 2.0 Type-A Male to Mini-B 5pin Male Cable (Monoprice)</td>
-<td>B002KL8J8W</td>
+<td>Custom Parts</td>
+<td>Outer Gear</td>
+<td>3-D Printing</td>
 <td>1</td>
-<td>$4.78</td>
-<td>$4.78</td>
+<td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td align="right">36</td>
