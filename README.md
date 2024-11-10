@@ -358,7 +358,7 @@ This [document](https://github.com/jovantormesvaquerano/MACHETE/blob/bd38f788773
 
 # Step-by-Step Building Guide
 
-![](https://github.com/jovantormesvaquerano/MACHETE/blob/f80b868b4070a44c69ba11947aaf63490b757ae4/MACHETE_Steps.png)
+![](https://github.com/jovantormesvaquerano/MACHETE/blob/6e26c6bfe7bb109aa54ff4855c46180c639ca6bf/MACHETE_Steps.png)
 
 This following [guide](https://github.com/jovantormesvaquerano/MACHETE/blob/a79d5ea04ea15c8cbc42b6330edd4ea465e7fe2d/4-MACHETE-Step-by-Step-Guide.pdf) provides a step-by-step walkthrough for building and testing each component of our motor assisted commutator. This document includes diagrams and explanations for assembling each component. 
 
