@@ -1,6 +1,6 @@
 # Motor Assisted Commutator to Harness Electronics in Tethered Experiments (MACHETE)
 
-Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **MACHETE** is a motor assisted commutator that allows researchers to harness electronics during tethered freely-moving behavior experiments with mice. 
+Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **MACHETE** is a motor assisted commutator that allows researchers to harness electronics during tethered freely-moving behavior experiments with mice. For more information, refer to [Rodriguez-Romaguera et al, 2025](https://www.eneuro.org/content/12/5/ENEURO.0583-24.2025) [1].
 
 ![](https://github.com/jovantormesvaquerano/MACHETE/blob/130a7a16e55805adebfeca424099612d2fb4d641/MACHETE_Cover.png)
 
@@ -376,4 +376,6 @@ Further information and requests for resources should be directed to and will be
 
 # Citation 
 
-If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite this [page](https://github.com/UNC-optics) [1]. 
+If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite [Rodriguez-Romaguera et al, 2025](https://www.eneuro.org/content/12/5/ENEURO.0583-24.2025) [1]. 
+
+[1] Rodriguez-Romaguera, J., Tormes-Vaquerano, J., McTaggart, E. M., Ortiz-Juza, M. M., Miller, N. W., Thomas, K., … Pégard, N. C. (2025). Motor assisted commutator to harness electronics in tethered experiments. Eneuro, 12(5). doi:10.1523/eneuro.0583-24.2025 
