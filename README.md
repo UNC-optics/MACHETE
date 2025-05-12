@@ -378,4 +378,4 @@ Further information and requests for resources should be directed to and will be
 
 If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite [Rodriguez-Romaguera et al, 2025](https://www.eneuro.org/content/12/5/ENEURO.0583-24.2025) [1]. 
 
-[1] Rodriguez-Romaguera, J., Tormes-Vaquerano, J., McTaggart, E. M., Ortiz-Juza, M. M., Miller, N. W., Thomas, K., Florido, A., & Pégard, N. C. (2025). Motor assisted commutator to harness electronics in tethered experiments. Eneuro, 12(5). doi:10.1523/eneuro.0583-24.2025 
+[1] Rodriguez-Romaguera, J., Tormes-Vaquerano, J., McTaggart, E. M., Ortiz-Juza, M. M., Miller, N. W., Thomas, K., Florido, A., & Pégard, N. C. (2025). Motor assisted commutator to harness electronics in tethered experiments. eNeuro, 12(5). doi:10.1523/eneuro.0583-24.2025 
